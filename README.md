@@ -44,5 +44,5 @@ I have a passion for continous growth in the field and love the feeling of findi
 
 # ⚡ Fun fact: ...
 
-I have been to 22 countries all over the world and the favorite place I've been in is Hawaii.  <br>
+I have been to 22 countries all over the world and the favorite place I've been in is Hawaii.🌴  <br>
 I love traveling and would love to work on some kind of travel app one day.
