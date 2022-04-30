@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 
 # About me
-My name is Michael and I'm a front-end software developer with over 2000 hours of experience learning web development from Oslo, Norway. I started building websites at Universty in 2015 using Wordpress, but I didn't want my development journey to stop there so I went into front-end development. <br> <br> I am largely a self-taught front-end developer, and have learned through courses, books, videos, and most importantly... through trial-and-error. 
+My name is Michael and I'm a front-end software developer with over 2000 hours of experience learning web development from Oslo, Norway. I started building websites at University in 2015 using Wordpress, but I didn't want my development journey to stop there so I went into front-end development. <br> <br> I am largely a self-taught front-end developer, and have learned through courses, books, videos, and most importantly... through trial-and-error. 
 I have a passion for continous growth in the field and love the feeling of finding a solution to a problem.
 # 🔭 I’m currently working on ...
 
