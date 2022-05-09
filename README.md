@@ -7,7 +7,7 @@ My name is Michael and I'm a front-end software developer with over 2000 hours o
 I have a passion for continous growth in the field and love the feeling of finding a solution to a problem.
 # 🔭 I’m currently working on ...
 
-• A workout tracker using Javascript
+• A Javascript quiz site for students looking to practice their JS skills
 
 # 🌱 I’m currently learning ...
 
