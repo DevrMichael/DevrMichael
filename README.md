@@ -8,7 +8,7 @@ I have a passion for continous growth in the field and love the feeling of findi
 I am currently open for front-end jobs either remote or located near Oslo/Lillestrøm, Norway.
 
 # 🔭 I’m currently working on ...
-• A Javascript quiz site for students looking to practice their JS skills </br>
+• A Javascript quiz website for students looking to practice their JS skills </br>
 • Currently learning The MERN stack
 
 # 🤔 Languages & Technologies I use ...
