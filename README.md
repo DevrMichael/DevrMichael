@@ -10,7 +10,7 @@ I have a passion for continous growth in the field and love the feeling of findi
 
 # 🤔 Languages & Technologies I use ...
 • HTML • CSS • Javascript • SASS • Typescript • JSON <br/>
-• React.js • Bootstrap • Node.js • Material UI • Google Analytics
+• React.js • VueJS • Bootstrap • Node.js • Material UI • Google Analytics
 
 # 📫 Where to find me:
 <a href="https://www.linkedin.com/in/michaelsiddiqi/"> Linkedin </a> <a href="https://twitter.com/DevrMichael"> Twitter </a> <a href="mailto:siddiqimichael@gmail.com"> Email </a> <a href="https://michaelsiddiqi.com/"> Portfolio </a> <br>
