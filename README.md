@@ -6,7 +6,7 @@ I have a passion for continous growth in the field and love the feeling of findi
 
 # 🔭 I’m currently working on ...
 • A <a href="https://github.com/DevrMichael/BJJ-Strength-Training-Website">Strength Training for Brazilian Jiu Jitsu</a> website targeted towards improving BJJ athletes physical abilities in the sport and reducing injury risk. </br>
-• Currently learning The MERN stack
+• Currently learning VueJS and Vuex
 
 # 🤔 Languages & Technologies I use ...
 • HTML • CSS • Javascript • SASS • Typescript • JSON <br/>
