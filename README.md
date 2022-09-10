@@ -9,7 +9,7 @@ I have a passion for continous growth in the field and love the feeling of findi
 • Currently learning VueJS and Vuex
 
 # 🤔 Languages & Technologies I use ...
-• HTML • CSS • Javascript • SASS • Typescript • JSON <br/>
+• HTML • CSS • Javascript • SASS • Typescript • JSON • Git • GitHub <br/>
 • React.js • VueJS • Bootstrap • Node.js • Material UI • Google Analytics
 
 # 📫 Where to find me:
