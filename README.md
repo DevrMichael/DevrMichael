@@ -1,8 +1,15 @@
-# Hi there! I'm Michael 👋
+# Hi there! 👋
 Welcome to my GitHub!
 
-My name is Michael and I'm a front-end software developer with over 3000 hours of experience learning web development from Oslo, Norway. I started building websites at 'Universitetet i Agder' in 2015 using Wordpress, but I didn't want my development journey to stop there so I went into front-end development. <br> <br> I am largely a self-taught front-end developer, and have learned through courses, books, videos, and most importantly... through trial-and-error. 
-I have a passion for continous growth in the field and love the feeling of finding a solution to a problem.
+I'm Michael, a self-taught front-end developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Javascript, Vue, and Typescript, enabling me to craft user-centric and dynamic web applications.
+
+Throughout my journey, I've been thrilled to work with cutting-edge technologies like Jest, React Testing Library, Git and Github, Figma, SASS, SCSS, Bootstrap, Sanity.io, and Vercel, constantly pushing the boundaries of what's possible in web development. Having started my voyage into the world of professional software development in 2021, I've rapidly grown and embraced every challenge that has come my way.
+
+Besides my software developer expertise, I have a rich history in building WordPress websites since 2014. This diverse background has provided me with a unique perspective, allowing me to seamlessly bridge the gap between traditional and modern web development practices.
+
+My one year of professional experience as a front-end developer has taught me the power of collaboration and communication, both within the team and with clients. I believe in fostering an environment of openness and creativity, where everyone's input is valued, leading to remarkable outcomes.
+
+As a fluent speaker of English and Norwegian, I can effectively communicate and collaborate with international teams and clients, making me a versatile asset in any global setting.
 
 # 🔭 I’m currently working on ...
 • A full on frontend developer course for aspiring developers. The goal is to create the course I wish I had when learning to code self-taught. </br>
