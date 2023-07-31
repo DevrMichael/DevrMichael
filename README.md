@@ -1,7 +1,7 @@
-# Hi there! 👋
+# Hi there! I'm Michael 👋
 Welcome to my GitHub!
 
-I'm Michael, a self-taught front-end developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Javascript, Vue, and Typescript, enabling me to craft user-centric and dynamic web applications.
+I'm a self-taught front-end developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Javascript, Vue, and Typescript, enabling me to craft user-centric and dynamic web applications.
 
 Throughout my journey, I've been thrilled to work with cutting-edge technologies like Jest, React Testing Library, Git and Github, Figma, SASS, SCSS, Bootstrap, Sanity.io, and Vercel, constantly pushing the boundaries of what's possible in web development. Having started my voyage into the world of professional software development in 2021, I've rapidly grown and embraced every challenge that has come my way.
 
