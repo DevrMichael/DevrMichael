@@ -9,8 +9,6 @@ Throughout my journey, I've been thrilled to work with cutting-edge technologies
 
 Besides my software developer expertise, I have a rich history in building WordPress websites since 2014. This diverse background has provided me with a unique perspective, allowing me to seamlessly bridge the gap between traditional and modern web development practices.
 
-My one year of professional experience as a front-end developer has taught me the power of collaboration and communication, both within the team and with clients. I believe in fostering an environment of openness and creativity, where everyone's input is valued, leading to remarkable outcomes.
-
 As a fluent speaker of English and Norwegian, I can effectively communicate and collaborate with international teams and clients, making me a versatile asset in any global setting.
 
 # 🔭 I’m currently working on ...
