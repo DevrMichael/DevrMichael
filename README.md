@@ -3,6 +3,8 @@ Welcome to my GitHub!
 
 I'm a self-taught front-end developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Javascript, Vue, and Typescript, enabling me to craft user-centric and dynamic web applications.
 
+For the past two years, I've been working at Skiwo AS, where I have been the main developer in charge of building Salita's admin platform. This platform empowers administrators to efficiently manage interpretation and translation assignments, streamlining their workflow for improved productivity.
+
 Throughout my journey, I've been thrilled to work with cutting-edge technologies like Jest, React Testing Library, Git and Github, Figma, SASS, SCSS, Bootstrap, Sanity.io, and Vercel, constantly pushing the boundaries of what's possible in web development. Having started my voyage into the world of professional software development in 2021, I've rapidly grown and embraced every challenge that has come my way.
 
 Besides my software developer expertise, I have a rich history in building WordPress websites since 2014. This diverse background has provided me with a unique perspective, allowing me to seamlessly bridge the gap between traditional and modern web development practices.
