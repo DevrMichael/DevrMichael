@@ -1,7 +1,7 @@
 # Hi there! I'm Michael 👋
 Welcome to my GitHub!
 
-I'm a self-taught front-end developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Javascript, Vue, and Typescript, enabling me to craft user-centric and dynamic web applications.
+I'm a developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Typescript, Javascript and Vue, enabling me to craft user-centric and dynamic web applications.
 
 Since mid-2022, I've been working at Skiwo AS, where I have been the main developer in charge of building Salita's admin platform (Connect). This platform empowers administrators to efficiently manage interpretation and translation assignments, streamlining their workflow for improved productivity.
 
@@ -12,7 +12,7 @@ Besides my software developer expertise, I have a rich history in building WordP
 As a fluent speaker of English and Norwegian, I can effectively communicate and collaborate with international teams and clients, making me a versatile asset in any global setting.
 
 # 🔭 I’m currently working on ...
-• learning more in-depth about software architecture
+• building my skills in C# and the .NET framework.
 
 # 🤔 Languages & Technologies I use ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
