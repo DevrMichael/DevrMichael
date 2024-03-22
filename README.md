@@ -1,7 +1,7 @@
 # Hi there! I'm Michael 👋
 Welcome to my GitHub!
 
-I'm a developer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Typescript, Javascript and Vue, enabling me to craft user-centric and dynamic web applications.
+I'm a software engineer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React, Next.js, Typescript, Javascript and Vue, enabling me to craft user-centric and dynamic web applications.
 
 Since mid-2022, I've been working at Skiwo AS, where I have been the main developer in charge of building Salita's admin platform (Connect). This platform empowers administrators to efficiently manage interpretation and translation assignments, streamlining their workflow for improved productivity.
 
