@@ -18,4 +18,4 @@ As a fluent speaker of English and Norwegian, I can effectively communicate and 
 Vuex • JSON • Git • GitHub • Material UI • Google Analytics • Google Search Console • Storybook • Sanity.io • NEXTJS • Vercel • React Testing Library • Jest • Lerna • Github Actions
 
 # 📫 Where to find me:
-<a href="https://www.linkedin.com/in/michaelsiddiqi/"> Linkedin </a> <a href="https://twitter.com/DevrMichael"> Twitter </a> <a href="mailto:siddiqimichael@gmail.com"> Email </a> <a href="https://michaelsiddiqi.com/"> Portfolio </a> <br>
+<a href="https://www.linkedin.com/in/michaelsiddiqi/"> Linkedin </a> <a href="mailto:siddiqimichael@gmail.com"> Email </a> <a href="https://devrmichael.com/"> Blog </a> <br>
