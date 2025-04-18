@@ -58,6 +58,7 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Lerna](https://img.shields.io/badge/Lerna-3B3B3B?style=for-the-badge&logo=lerna&logoColor=white)
+- Monorepo architecture (Lerna, Nx)
 
 ### Analytics & Monitoring
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
