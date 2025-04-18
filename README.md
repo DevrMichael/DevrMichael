@@ -4,7 +4,7 @@ My passion lies at the intersection of **health and technology**.
 
 I began my professional journey as a **personal trainer** and earned a **Bachelor’s degree in Nutrition Science**. While working in the health space, I started building websites in **2014**, which sparked a deeper interest in **SEO**, **website performance**, and **UI optimization** to drive organic growth and engagement.
 
-At the onset of the COVID pandemic, I pivoted fully into **software development**, driven by self-study, books, courses, and building personal projects. Since then, I’ve completed **100+ private tutor hours** in software development and continued growing through hands-on experience.
+At the onset of the COVID pandemic, I pivoted fully into software development, driven by self-study, books, courses, and building personal projects. Since then, I’ve completed 100+ private tutor hours and have continued growing through hands-on experience. Along the way, I’ve been fortunate to learn from and collaborate with some of the brightest minds in the industry, which has significantly accelerated my development and broadened my perspective.
 
 Over the years, I’ve had the opportunity to work on impactful and large-scale projects including:
 - **Flytoget** – Norway’s airport express train service
