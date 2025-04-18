@@ -1,13 +1,17 @@
-# Hi there! I'm Michael 👋
-Welcome to my GitHub!
+## 🛤️ My Journey in Tech
 
-I'm a software engineer with a relentless passion for transforming ideas into captivating digital experiences. With a deep-rooted curiosity and a high drive for excellence, I have honed my skills in React,  Next.js, Typescript, Javascript, React Native and Vue, enabling me to craft user-centric and dynamic web applications.
+My passion lies at the intersection of **health and technology**.
 
-Throughout my journey, I've been thrilled to work with cutting-edge technologies like Jest, React Testing Library, Git and Github, Figma, SASS, SCSS, Bootstrap, Sanity.io, and Vercel, constantly pushing the boundaries of what's possible in web development. Having started my voyage into the world of professional software development in 2021, I've rapidly grown and embraced every challenge that has come my way.
+I began my professional journey as a **personal trainer** and earned a **Bachelor’s degree in Nutrition Science**. While working in the health space, I started building websites in **2014**, which sparked a deeper interest in **SEO**, **website performance**, and **UI optimization** to drive organic growth and engagement.
 
-Besides my software developer expertise, I have a rich history in building WordPress websites since 2014. This diverse background has provided me with a unique perspective, allowing me to seamlessly bridge the gap between traditional and modern web development practices.
+At the onset of the COVID pandemic, I pivoted fully into **software development**, driven by self-study, books, courses, and building personal projects. Since then, I’ve completed **100+ private tutor hours** in software development and continued growing through hands-on experience.
 
-As a fluent speaker of English and Norwegian, I can effectively communicate and collaborate with international teams and clients, making me a versatile asset in any global setting.
+Over the years, I’ve had the opportunity to work on impactful and large-scale projects including:
+- **Flytoget** – Norway’s airport express train service
+- **Salita** – A language services platform
+- **iBønn** and **iFaste** – Islamic utility apps used by **10,000+ daily users**
+
+I thrive in fast-paced environments, stay endlessly **curious**, and am committed to **continuous learning** as both a developer and a human.
 
 # 🔭 I’m currently working on ...
 • building my skills in C# and the .NET framework.
