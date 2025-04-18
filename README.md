@@ -22,7 +22,7 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 
 ## 🛠️ Languages & Technologies I Use
 
-### 👨‍💻 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -37,11 +37,11 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Formik](https://img.shields.io/badge/Formik-EF4444?style=for-the-badge&logo=formik&logoColor=white)
 
-### 📱 Mobile
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +50,7 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 - WebSockets  
 - Webhooks  
 
-### 🧪 Testing & Dev Tools
+### Testing & Dev Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
@@ -59,30 +59,25 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Lerna](https://img.shields.io/badge/Lerna-3B3B3B?style=for-the-badge&logo=lerna&logoColor=white)
 
-### 🔍 Analytics & Monitoring
+### Analytics & Monitoring
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-2D2D2D?style=for-the-badge&logo=amplitude&logoColor=00B2FF)
 - Google Analytics  
 - Google Search Console  
 
-### 🎨 Design & CMS
+### Design & CMS
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
-### ☁️ Hosting & Deployment
+### Hosting & Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-### 🧠 Productivity & PM Tools
+### Productivity & PM Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevrMichael&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrMichael&layout=compact&langs_count=10&theme=default)
 
 ## 🧠 What I Believe In
 
@@ -93,14 +88,18 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 
 ## ✍️ Recent Blog Posts
 
-- [🔧 Building an Admin Panel That Powers an App with 10,000+ Daily Users — Lessons from the Real World](https://medium.com/@devrmichael/building-an-admin-panel-that-powers-an-app-with-10-000-daily-users-lessons-from-real-world-68e3d6b2de95)  
+- <a href="https://medium.com/@devrmichael/building-an-admin-panel-that-powers-an-app-with-10-000-daily-users-lessons-from-real-world-68e3d6b2de95" target="_blank"> Building an Admin Panel That Powers an App with 10,000+ Daily Users — Lessons from the Real World</a>  
   Real-world lessons and architectural decisions from building large-scale admin panels.
 
-- [💡 Why Code Quality Directly Impacts Company Revenue and Growth](https://medium.com/@devrmichael/why-code-quality-directly-impacts-company-revenue-and-growth-dbc310dd9903)  
+- <a href="https://medium.com/@devrmichael/why-code-quality-directly-impacts-company-revenue-and-growth-dbc310dd9903" target="_blank"> Why Code Quality Directly Impacts Company Revenue and Growth</a>  
   How clean, maintainable code isn't just technical — it's business-critical.
 
-- [📈 From Frontend Developer to Full-Stack — How I Expanded My Skill Set](https://medium.com/@devrmichael/from-frontend-developer-to-full-stack-how-i-expanded-my-skill-set-f785cef6f469)  
+- <a href="https://medium.com/@devrmichael/from-frontend-developer-to-full-stack-how-i-expanded-my-skill-set-f785cef6f469" target="_blank"> From Frontend Developer to Full-Stack — How I Expanded My Skill Set</a>  
   A look at the mindset, tools, and steps that helped me grow into a full-stack role.
 
 # 📫 Where to find me:
-<a href="https://www.linkedin.com/in/michaelsiddiqi/"> Linkedin </a> <a href="mailto:siddiqimichael@gmail.com"> Email </a> <a href="https://devrmichael.com/"> Blog </a> <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelsiddiqi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddiqimichael@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devrmichael.com/)
+
