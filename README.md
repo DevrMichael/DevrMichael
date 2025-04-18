@@ -20,7 +20,6 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 - Implementing **WebSocket-based** real-time features in apps (e.g. live updates, ticketing systems)
 - Exploring how real-time tech can improve user experience, especially in apps with high engagement or critical timing
 
-
 ## 🛠️ Languages & Technologies I Use
 
 ### 👨‍💻 Frontend
@@ -80,7 +79,28 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ### 🧠 Productivity & PM Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 📊 GitHub Stats
 
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevrMichael&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrMichael&layout=compact&langs_count=10&theme=default)
+
+## 🧠 What I Believe In
+
+- Code should be simple, scalable, and human-readable  
+- Great products are built by curious minds and tight feedback loops  
+- Continuous learning and collaboration are the heart of software  
+- Tech is a tool to improve lives — especially in health, education, and community
+
+## ✍️ Recent Blog Posts
+
+- [🔧 Building an Admin Panel That Powers an App with 10,000+ Daily Users — Lessons from the Real World](https://medium.com/@devrmichael/building-an-admin-panel-that-powers-an-app-with-10-000-daily-users-lessons-from-real-world-68e3d6b2de95)  
+  Real-world lessons and architectural decisions from building large-scale admin panels.
+
+- [💡 Why Code Quality Directly Impacts Company Revenue and Growth](https://medium.com/@devrmichael/why-code-quality-directly-impacts-company-revenue-and-growth-dbc310dd9903)  
+  How clean, maintainable code isn't just technical — it's business-critical.
+
+- [📈 From Frontend Developer to Full-Stack — How I Expanded My Skill Set](https://medium.com/@devrmichael/from-frontend-developer-to-full-stack-how-i-expanded-my-skill-set-f785cef6f469)  
+  A look at the mindset, tools, and steps that helped me grow into a full-stack role.
 
 # 📫 Where to find me:
 <a href="https://www.linkedin.com/in/michaelsiddiqi/"> Linkedin </a> <a href="mailto:siddiqimichael@gmail.com"> Email </a> <a href="https://devrmichael.com/"> Blog </a> <br>
