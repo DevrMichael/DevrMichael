@@ -79,6 +79,7 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 
 ### Productivity & PM Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🧠 What I Believe In
 
