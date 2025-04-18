@@ -1,4 +1,4 @@
-## 🛤️ My Journey in Tech
+## My Journey in Tech
 
 My passion lies at the intersection of **health and technology**.
 
