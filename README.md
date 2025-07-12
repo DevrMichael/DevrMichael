@@ -7,9 +7,9 @@ I began my professional journey as a **personal trainer** and earned a **Bachelo
 At the onset of the COVID pandemic, I pivoted fully into software development, driven by self-study, books, courses, and building personal projects. Since then, I’ve completed 100+ private tutor hours and have continued growing through hands-on experience. Along the way, I’ve been fortunate to learn from and collaborate with some of the brightest minds in the industry, which has significantly accelerated my development and broadened my perspective.
 
 Over the years, I’ve had the opportunity to work on impactful and large-scale projects including:
-- **Flytoget** – Norway’s airport express train service
-- **Salita** – A language services platform
-- **iBønn** and **iFaste** – Islamic utility apps used by **10,000+ daily users**
+- **Flytoget** – Norway’s premier airport express train and one of the country's most recognized brands.
+- **Salita** – One of Norway’s leading platforms for language and interpretation services.
+- **iBønn** and **iFaste** – Among the most widely used Islamic apps in Scandinavia, with **10,000+ daily active users**.
 
 I thrive in fast-paced environments, stay endlessly **curious**, and am committed to **continuous learning** as both a developer and a human.
 
