@@ -47,8 +47,9 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Websockets](https://img.shields.io/badge/-Websockets-61DAFB)
-![Webhooks](https://img.shields.io/badge/-Webhooks-61DAFB)
+![Webhooks](https://img.shields.io/badge/Webhooks-61DAFB?style=for-the-badge&logo=amplitude&logoColor=61DAFB)
+![Websockets](https://img.shields.io/badge/Websockets-61DAFB?style=for-the-badge&logo=amplitude&logoColor=61DAFB)
+
 
 ### Testing & Dev Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
