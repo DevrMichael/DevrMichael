@@ -47,8 +47,8 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-- WebSockets  
-- Webhooks  
+![Websockets](https://img.shields.io/badge/-Websockets-61DAFB)
+![Webhooks](https://img.shields.io/badge/-Webhooks-61DAFB)
 
 ### Testing & Dev Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -58,13 +58,12 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Lerna](https://img.shields.io/badge/Lerna-3B3B3B?style=for-the-badge&logo=lerna&logoColor=white)
-- Monorepo architecture (Lerna, Nx)
+![Nx](https://img.shields.io/badge/Nx-3B3B3B?style=for-the-badge&logo=nx&logoColor=white)
 
 ### Analytics & Monitoring
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-2D2D2D?style=for-the-badge&logo=amplitude&logoColor=00B2FF)
-- Google Analytics  
-- Google Search Console  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-2D2D2D?style=for-the-badge&logo=amplitude&logoColor=00B2FF)
 
 ### Design & CMS
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -86,7 +85,7 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 - Code should be simple, scalable, and human-readable  
 - Great products are built by curious minds and tight feedback loops  
 - Continuous learning and collaboration are the heart of software  
-- Tech is a tool to improve lives — especially in health, education, and community
+- Tech is a tool to improve lives, especially in health, education, and community
 
 ## ✍️ Recent Blog Posts
 
@@ -106,8 +105,5 @@ I thrive in fast-paced environments, stay endlessly **curious**, and am committe
 </a>
 <a href="mailto:siddiqimichael@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://devrmichael.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
