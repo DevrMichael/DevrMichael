@@ -2,25 +2,26 @@
 
 My passion lies at the intersection of **health and technology**.
 
-I began my professional journey as a **personal trainer** and earned a **Bachelor’s degree in Nutrition Science**. While working in the health space, I started building websites in **2014**, which sparked a deeper interest in **SEO**, **website performance**, and **UI optimization** to drive organic growth and engagement.
+I came to software from the health world. I worked as a personal trainer, earned a B.Sc. in Nutrition Science, and started building websites on the side, which turned into an obsession with performance and UX. In 2021 I made it my career, and I've spent it shipping production apps used by millions of passengers and hundreds of thousands of members.
 
-At the onset of the COVID pandemic, I pivoted fully into software development, driven by self-study, books, courses, and building personal projects. Since then, I’ve completed 100+ private tutor hours and have continued growing through hands-on experience. Along the way, I’ve been fortunate to learn from and collaborate with some of the brightest minds in the industry, which has significantly accelerated my development and broadened my perspective.
+## Selected work
 
 Over the years, I’ve had the opportunity to work on impactful and large-scale projects including:
-- **Flytoget** – Norway’s premier airport express train and one of the country's most recognized brands.
-- **Salita** – One of Norway’s leading platforms for language and interpretation services.
-- **iBønn** and **iFaste** – Among the most widely used Islamic apps in Scandinavia, with **10,000+ daily active users**.
+- **OBOS app** — React Native/TypeScript app for 640k+ members; activation, engagement, and A/B experimentation at scale
+- **Flytoget TVMs** — ticket vending machines for Norway's airport express train (7M+ annual passengers): VayaPay payments, CashGuard cash handling, printers, QR scanners
+- **Hotel self-check-in kiosks** — 99.8% uptime, five lock-system vendors, Adyen payments, passport scanners via Android native modules
+- **Salita** – led frontend for one of Norway’s leading platforms for language and interpretation services handling 15,000+ monthly orders
+- **iBønn** and **iFaste** – volunteer full-stack work on Scandinavia's most-used Islamic apps (10–20k daily users)
 
 I thrive in fast-paced environments, stay endlessly **curious**, and am committed to **continuous learning** as both a developer and a human.
 
-# 🔭 I’m currently working on ...
+# I’m currently working on ...
 
-- Deepening my knowledge of **React Native** to build seamless, high-quality mobile experiences
-- Expanding my backend expertise by building scalable APIs and services with Node.js, Express, and MongoDB
-- Implementing **WebSocket-based** real-time features in apps (e.g. live updates, ticketing systems)
-- Exploring how real-time tech can improve user experience, especially in apps with high engagement or critical timing
+- Scaling the OBOS mobile app (React Native/TypeScript) through activation, engagement, and conversion for 640k+ members
+- Data-informed product work: A/B experimentation and analytics with Amplitude
+- Fullstack delivery across mobile and web with React, Next.js, and Azure
 
-## 🛠️ Languages & Technologies I Use
+## Languages & Technologies I Use
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
