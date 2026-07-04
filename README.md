@@ -2,7 +2,9 @@
 
 My passion lies at the intersection of **health and technology**.
 
-I came to software from the health world. I worked as a personal trainer, earned a B.Sc. in Nutrition Science, and started building websites on the side, which turned into an obsession with performance and UX. In 2021 I made it my career, and I've spent it shipping production apps used by millions of passengers and hundreds of thousands of members.
+I came to software from the health world. I worked as a personal trainer, earned a B.Sc. in Nutrition Science, and started building websites on the side, which turned into an obsession with performance and UX. 
+
+In 2021 I made it my career, and I've spent it shipping production apps used by millions of passengers and hundreds of thousands of members.
 
 ## Selected work
 
